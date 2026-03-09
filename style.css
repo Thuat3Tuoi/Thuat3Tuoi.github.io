@@ -744,3 +744,19 @@ footer {
     opacity: 1;
     transform: translateY(0);
 }
+
+/* .resume-content {
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.resume-content iframe {
+  margin-top: 30px;
+  width: 100%;
+  min-height: 700px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  background: white;
+} */
+
